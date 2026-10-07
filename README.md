@@ -3,6 +3,7 @@
 > A curated list of Telegram AI bot frameworks, production bots, LLM integrations, voice/TTS, payment patterns, and memory systems.
 
 **Last updated**: 2026-04-18 · **Maintained by**: [@sm1ck](https://github.com/sm1ck) · **License**: [CC0](LICENSE)
+- [Tiny Telegram Tools](https://tg.zovo.one) — 22 single-purpose Telegram bots: anonymous inbox, party games, expense splitter, habit tracker, reminders, focus timer, and more.
 
 The Telegram bot platform is one of the largest distribution channels for conversational AI — lower friction than a separate app, richer UI than a CLI. As of 2026 there are 950M+ Telegram monthly active users and bots account for a meaningful portion of daily message volume. This list focuses on production-grade bots, frameworks, and patterns specifically at the intersection of Telegram and AI.
 
